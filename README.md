@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YiyangZhou&count_private=true&theme=vue&show_icons=true)]()
+[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YiyangZhou&langs_count=8&theme=vue&layout=compact)]()
 <!--
-**YiyangZhou/YiyangZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bluestyle97/bluestyle97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
