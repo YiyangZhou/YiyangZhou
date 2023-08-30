@@ -1,22 +1,31 @@
-### Hi there 👋
-### I am looking forward to collaborating and working with intelligent, idealistic, and dedicated individuals. 
-### Currently, my research interests lie in LLM (Large Language Models), LVLMs (Large Vision-Language Models), Multimodal, and related fields.
-### Additionally, I have extensive investment experience and have previously assisted UBS in secondary market investments. 
-### My network extends beyond IT💻, academia🧑‍🎓, and finance💰.
+### Hi there, I'm Yiyang [Personal Website][website] 👋
+
+
+
+### Connect with me:
+
+[<img align="left" alt="HZ" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="HZ | GoogleScholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][GoogleScholar]
+[<img align="left" alt="HZ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+
+<br />
+
+
+
+### I'm a PhD student, Biostatistician, Cat Father, and Chinese Calligraphier!
+- I'm currently working on Natural Language Processing, Multimodal, and Large-scale Fundamental Models (including LLMs and LVLMs).
+- Prior to this, I also worked in the financial industry and was involved in secondary market investments at UBS Singapore
+- 👯 I’m looking to collaborate with other content creators
+
+
+
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=YiyangZhou&count_private=true&theme=vue&show_icons=true)]()
 [![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YiyangZhou&langs_count=8&theme=vue&layout=compact)]()
-<!--
-**bluestyle97/bluestyle97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[website]: https://yiyangzhou.github.io/
+[twitter]: https://twitter.com/AiYiyangZ
+[GoogleScholar]: https://scholar.google.com.hk/citations?user=6KltFMAAAAAJ&hl=zh-CN
