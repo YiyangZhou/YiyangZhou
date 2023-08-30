@@ -13,7 +13,7 @@
 
 
 
-### I'm a PhD student, Biostatistician, Cat Father, and Chinese Calligraphier!
+### I'm about to become a PhD student, and I'm really excited about it!
 - I'm currently working on Natural Language Processing, Multimodal, and Large-scale Fundamental Models (including LLMs and LVLMs).
 - Prior to this, I also worked in the financial industry and was involved in secondary market investments at UBS Singapore
 - 👯 I’m looking to collaborate with other content creators
